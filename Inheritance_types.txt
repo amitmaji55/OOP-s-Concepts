@@ -1,0 +1,7 @@
+Different Types of Inheritance
+Single inheritance.
+Multi-level inheritance.
+Multiple inheritance.
+Multipath inheritance.
+Hierarchical Inheritance.
+Hybrid Inheritance.
